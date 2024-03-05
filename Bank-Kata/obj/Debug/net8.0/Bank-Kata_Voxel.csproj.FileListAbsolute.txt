@@ -1,0 +1,14 @@
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\bin\Debug\net8.0\Bank-Kata_Voxel.exe
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\bin\Debug\net8.0\Bank-Kata_Voxel.deps.json
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\bin\Debug\net8.0\Bank-Kata_Voxel.runtimeconfig.json
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\bin\Debug\net8.0\Bank-Kata_Voxel.dll
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\bin\Debug\net8.0\Bank-Kata_Voxel.pdb
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\obj\Debug\net8.0\Bank-Kata_Voxel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\obj\Debug\net8.0\Bank-Kata_Voxel.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\obj\Debug\net8.0\Bank-Kata_Voxel.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\obj\Debug\net8.0\Bank-Kata_Voxel.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\obj\Debug\net8.0\Bank-Kata_Voxel.dll
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\obj\Debug\net8.0\refint\Bank-Kata_Voxel.dll
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\obj\Debug\net8.0\Bank-Kata_Voxel.pdb
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\obj\Debug\net8.0\Bank-Kata_Voxel.genruntimeconfig.cache
+C:\Users\georg\OneDrive\Escritorio\Bank-Kata_Voxel\Bank-Kata_Voxel\obj\Debug\net8.0\ref\Bank-Kata_Voxel.dll
