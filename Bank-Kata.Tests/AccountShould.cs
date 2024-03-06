@@ -17,4 +17,17 @@ public class AccountShould
         
         account.Balance.Should().Be(expectedBalance);
     }
+    
+    [Fact]
+    public void Substract_Money_To_Account_On_Withdraw()
+    {
+        var withdrawAmount = 10;
+        
+        var account = new Account();
+        var expectedBalance = account.Balance - withdrawAmount;
+
+        account.Withdraw(withdrawAmount);
+        
+        account.Balance.Should().Be(expectedBalance);
+    }
 }

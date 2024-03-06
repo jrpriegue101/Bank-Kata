@@ -8,7 +8,9 @@ public class Account
         Balance += amount;
     }
 
-    public void Withdrawal(int amount) { }
+    public void Withdraw(int amount) {
+        Balance -= amount;
+    }
 
     public void PrintStatement() { }
 
